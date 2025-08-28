@@ -45,7 +45,7 @@ This repository showcases advanced database projects from the **CSCI 3020 – Da
 ## Author
 Christopher Bragg
 
-*Original lab partner: William Rowe*
+*Original lab partner: William Roe*
 
 ---
 
